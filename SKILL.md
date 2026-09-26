@@ -24,3 +24,15 @@ Use this skill when the user wants a multi-role expert team to design or improve
 ## Output Style
 
 Prefer practical Chinese deliverables: course positioning, learner outcomes, module outline, detailed lesson plan, PPT page plan, activity design, cases, exercises, instructor guidance, and review checklist.
+
+
+
+## 开发者与版权标记
+
+本 Skill 由一宏老师开发，版权归一宏老师所有。转载、分享或收录时，请保留开发者署名及版权标记。
+
+使用过程中有任何问题、建议或合作想法，欢迎添加微信 **waffle105** 联系我。添加时请备注来意，方便我了解你的需求。
+
+我的 Skill 集：[GitHub 仓库](https://github.com/waffle105?tab=repositories)
+
+如果你喜欢这些 Skill，欢迎到 GitHub 点个 Star 支持我！
